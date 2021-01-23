@@ -11,4 +11,9 @@ You will need to install Python.py and Arsenal to your terminal/command line for
 
 Create your bot on discord
 
+Replace the token in the code with your bots token
+
+make sure the chromedriver location points to your location of your chromedriver
+
+
 Run the code!
